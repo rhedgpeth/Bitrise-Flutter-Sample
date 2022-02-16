@@ -16,7 +16,7 @@ This is a sample Flutter project that demonstrates a [Bitrise](https://bitrise.i
 ![Primary workflow](docs/workflow-primary.png)
 </details>
 
-This workflow is automatically run by Bitrise on every commit on every branch. In addition to running `flutter analyze` to check for code quality, this workflow also runs `flutter test` to execute unit tests. Finally, `flutter drive` is run to execute integration tests. All test results are uploaded to the "Apps & Artifacts" tab on the build. Test.
+This workflow is automatically run by Bitrise on every commit on every branch. In addition to running `flutter analyze` to check for code quality, this workflow also runs `flutter test` to execute unit tests. Finally, `flutter drive` is run to execute integration tests. All test results are uploaded to the "Apps & Artifacts" tab on the build. Test. Test.
 
 #### `deploy` Workflow
 <details>
